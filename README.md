@@ -32,7 +32,7 @@ AI SEC COMMUNITY brings together researchers, cybersecurity professionals, devel
 | `/` | Homepage with 12 sections (Hero, Stats, Focus Areas, Events, Speakers, Resources, Benefits, Blog, Partners, FAQ, CTA, Footer) |
 | `/about` | Mission, Vision, Values, Leadership Team, Roadmap |
 | `/events` | Event listing with type filtering and registration |
-| `/speakers` | Speaker directory + Call for Speakers form |
+| `/speakers` | Speaker directory + Call for Speakers form | Call for panel speaker 
 | `/resources` | Searchable resource hub with categories |
 | `/community` | Membership benefits and community programs |
 | `/blog` | Article listing with category filters |
